@@ -1,4 +1,4 @@
-# sultannurkorkusuzgucuk
+# Hi! I'm Sultan Nur Korkusuz Gucuk
 * 🔭 My profession is Meteorological Engineering, and currently working as an Aviation Weather Forecaster. 
 * 📝 Doing my Master's Degree in Earth System Science at Istanbul Technical University. I'm passionate about Data Science & Machine Learning application on Climate Data, and Physical Oceanography.
 * 💻 Even though using R on some of my term projects during my Master's Degree, I prefer using Python as a tool on my personal studies.
